@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813866267059",
+    "firebase_url": "https://cann-505f7-default-rtdb.firebaseio.com",
+    "project_id": "cann-505f7",
+    "storage_bucket": "cann-505f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813866267059:android:f3357efbc6a662238cdbc6",
+        "android_client_info": {
+          "package_name": "com.example.frcrce_canteen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813866267059-t7ffdvrjo67568ms78g5bl56ngs76slb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoDHYb5f2LM1SBkDe4tn04IMGDDkzzlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813866267059-kthjlg5cdeuqaco51eigng2jp6h70md0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
