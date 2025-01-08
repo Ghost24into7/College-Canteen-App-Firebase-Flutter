@@ -1,7 +1,7 @@
 # College Canteen App
 
-![Banner Image](![lol](https://github.com/user-attachments/assets/75f6c1dd-3347-4372-b63a-ba824e9dc5c3)
-)
+![Uploading lol.png…]()
+
 
 ## 📱 Overview
 **College Canteen App** is a **Flutter and Firebase-based mobile application** designed for students and staff to **browse menus, order food, and make payments online**. With a sleek interface and robust features, this app simplifies canteen operations and enhances user convenience.
@@ -24,10 +24,12 @@
 ## 🖥️ Screenshots
 
 ### **Login Page**
-![Home Screen]((![2 (12)](https://github.com/user-attachments/assets/5bc5d3b8-f331-49fb-8f12-101dfcac32ce)) 
+![2 (12)](https://github.com/user-attachments/assets/3ca70829-3523-42c3-bf85-30663e2928b3)
 
 ### **Menu Page**
-![Menu Screen](https://github.com/user-attachments/assets/menu-screen.png)
+![1](https://github.com/user-attachments/assets/7f227d59-c7a6-4350-a2e1-955e2a2aef94)
+![2 (1)](https://github.com/user-attachments/assets/8f98a80b-4a2b-4f90-ad03-400fdf8775fb)
+
 
 ### **Cart Page**
 ![Cart Screen](https://github.com/user-attachments/assets/cart-screen.png)
