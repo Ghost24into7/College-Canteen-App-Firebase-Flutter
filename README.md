@@ -1,6 +1,6 @@
-![IMG-20250108-WA0018](https://github.com/user-attachments/assets/aac22be4-c9a2-4bec-957e-ce792d9ee783)![IMG-20250108-WA0012](https://github.com/user-attachments/assets/1148c410-8270-41ae-9ff3-28f7172b74d9)# College Canteen App
+# College Canteen App
 
-![Uploading lol.png…]()
+![lol](https://github.com/user-attachments/assets/60505053-dd3a-4bcb-8009-68b3c3b8184e)
 
 
 ## 📱 Overview
